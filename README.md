@@ -14,15 +14,3 @@
   ![Node.js](https://img.shields.io/badge/Node.js-rgba(0,0,0,0)?style=flat-square&logo=Node.js&logoColor=339933)
   </div>
  -->
-<link defer="" rel="stylesheet" type="text/css" href="/_res/_common/css/cms.min.css">
-<body>
-	<div class="wrap">
-		<ul>
-			<li>1</li>
-			<li>2</li>
-			<li>3</li>
-			<li>4</li>
-		</ul>
-	</div>
-<script src=""></script>
-</body>
