@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+***
+
 <div align=left>
 	<h3>Tech Stack</h3>
 	
