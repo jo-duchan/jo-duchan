@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <div align=left>
+  <!-- <div align=left>
 	<h3>Tech Stack</h3>
 	
   ![React](https://img.shields.io/badge/React-rgba(0,0,0,0)?style=flat-square&logo=React&logoColor=61DAFB)
@@ -13,3 +13,4 @@
   ![Storybook](https://img.shields.io/badge/Storybook-rgba(0,0,0,0)?style=flat-square&logo=Storybook&logoColor=FF4785)
   ![Node.js](https://img.shields.io/badge/Node.js-rgba(0,0,0,0)?style=flat-square&logo=Node.js&logoColor=339933)
   </div>
+ -->
