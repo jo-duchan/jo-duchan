@@ -14,11 +14,32 @@
   ![Storybook](https://img.shields.io/badge/Storybook-424242?style=flat-square&logo=Storybook&logoColor=FF4785)
   ![Node.js](https://img.shields.io/badge/Node.js-424242?style=flat-square&logo=Node.js&logoColor=339933)
 </div>-->
-<style type='text/css'>
-  [class*="box"] { display: flex; width: 20%; height: 50px; }
-</style>
+<svg
+    width="495"
+    height="40"
+    viewBox="0 0 495 40"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
 
-<div class="box0">
-  <div class="hex0">0</div>
-  <div class="rgb0">0</div>
-</div>
+    <style>
+        .header {
+            font: 600 18px Sans-Serif;
+            fill: #0366d6;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+        }
+
+        @keyframes fadeInAnimation {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+    </style>
+
+    <g transform="translate(0, 25)">
+        <text class="header" data-testid="header">${text}</text>
+    </g>
+</svg>
