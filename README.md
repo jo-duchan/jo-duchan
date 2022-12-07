@@ -14,4 +14,3 @@
   ![Storybook](https://img.shields.io/badge/Storybook-424242?style=flat-square&logo=Storybook&logoColor=FF4785)
   ![Node.js](https://img.shields.io/badge/Node.js-424242?style=flat-square&logo=Node.js&logoColor=339933)
 </div>-->
-![Imgur](https://img.shields.io/badge/React-424242?style=flat-square&logo=React&logoColor=61DAFB)
