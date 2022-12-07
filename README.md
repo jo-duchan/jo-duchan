@@ -4,12 +4,12 @@ i'm front-end developer.
 <div align=left>
 	<h3>Tech Stack</h3>
 	
-  ![React](https://img.shields.io/badge/React-424242?style=flat-square&logo=React&logoColor=61DAFB)
-  ![Styled Components](https://img.shields.io/badge/Styled%20Components-424242?style=flat-square&logo=Styled%20Components&logoColor=DB7093)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-424242?style=flat-square&logo=TypeScript&logoColor=3178C6)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-424242?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
-  ![HTML5](https://img.shields.io/badge/HTML5-424242?style=flat-square&logo=HTML5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/CSS3-424242?style=flat-square&logo=CSS3&logoColor=1572B6)
-  ![Storybook](https://img.shields.io/badge/Storybook-424242?style=flat-square&logo=Storybook&logoColor=FF4785)
-  ![Node.js](https://img.shields.io/badge/Node.js-424242?style=flat-square&logo=Node.js&logoColor=339933)
+  ![React](https://img.shields.io/badge/React-343942?style=flat-square&logo=React&logoColor=61DAFB)
+  ![Styled Components](https://img.shields.io/badge/Styled%20Components-343942?style=flat-square&logo=Styled%20Components&logoColor=DB7093)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-343942?style=flat-square&logo=TypeScript&logoColor=3178C6)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-343942?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+  ![HTML5](https://img.shields.io/badge/HTML5-343942?style=flat-square&logo=HTML5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/CSS3-343942?style=flat-square&logo=CSS3&logoColor=1572B6)
+  ![Storybook](https://img.shields.io/badge/Storybook-343942?style=flat-square&logo=Storybook&logoColor=FF4785)
+  ![Node.js](https://img.shields.io/badge/Node.js-343942?style=flat-square&logo=Node.js&logoColor=339933)
 </div>
