@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, i'm Duchan 👋
+i'm front-end developer.
 
 <!--<div align=left>
 	<h3>Tech Stack</h3>
