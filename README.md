@@ -14,6 +14,4 @@
   ![Storybook](https://img.shields.io/badge/Storybook-424242?style=flat-square&logo=Storybook&logoColor=FF4785)
   ![Node.js](https://img.shields.io/badge/Node.js-424242?style=flat-square&logo=Node.js&logoColor=339933)
 </div>-->
-<ul>
-	<li color="red">1</li>
-</ul>
+
