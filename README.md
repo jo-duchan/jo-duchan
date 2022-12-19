@@ -1,6 +1,7 @@
-<!--<div align=left>
-  ![thumbnail](https://drive.google.com/uc?export=view&id=11HnRRHA751UBF5qREwTT95yVsb3KFQZX)
-</div>-->
+<div align=left>
+![typing](https://user-images.githubusercontent.com/79234094/208366463-f2c7f2fa-7e0b-4dba-b7df-f91a88df62db.gif)
+</div>
+
 ### Hi, i'm Duchan 👋
 i'm front-end developer.
 
