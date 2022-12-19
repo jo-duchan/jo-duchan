@@ -1,6 +1,6 @@
-<div align=left>
+<!--<div align=left>
   ![thumbnail](https://drive.google.com/uc?export=view&id=11HnRRHA751UBF5qREwTT95yVsb3KFQZX)
-</div>
+</div>-->
 ### Hi, i'm Duchan 👋
 i'm front-end developer.
 
