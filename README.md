@@ -1,9 +1,12 @@
+<div align=left>
+  ![thumnail](https://drive.google.com/file/d/11HnRRHA751UBF5qREwTT95yVsb3KFQZX/view?usp=sharing)
+</div>
 ### Hi, i'm Duchan 👋
 i'm front-end developer.
 
 <div align=left>
 	<h3>Tech Stack</h3>
-	
+  
   ![React](https://img.shields.io/badge/React-343942?style=flat&logo=React&logoColor=61DAFB)
   ![Styled Components](https://img.shields.io/badge/Styled%20Components-343942?style=flat&logo=Styled%20Components&logoColor=DB7093)
   ![TypeScript](https://img.shields.io/badge/TypeScript-343942?style=flat&logo=TypeScript&logoColor=3178C6)
