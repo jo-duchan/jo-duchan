@@ -1,5 +1,5 @@
 <div align=left>
-  ![thumnail](https://drive.google.com/file/d/11HnRRHA751UBF5qREwTT95yVsb3KFQZX/view?usp=sharing)
+  ![thumbnail](https://drive.google.com/uc?export=view&id=11HnRRHA751UBF5qREwTT95yVsb3KFQZX)
 </div>
 ### Hi, i'm Duchan 👋
 i'm front-end developer.
