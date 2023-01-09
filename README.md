@@ -20,5 +20,6 @@
   ![HTML5](https://img.shields.io/badge/HTML5-343942?style=flat&logo=HTML5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/CSS3-343942?style=flat&logo=CSS3&logoColor=1572B6)
   ![Storybook](https://img.shields.io/badge/Storybook-343942?style=flat&logo=Storybook&logoColor=FF4785)
-  ![Node.js](https://img.shields.io/badge/Node.js-343942?style=flat&logo=Node.js&logoColor=339933)
 </div>
+
+<!--   ![Node.js](https://img.shields.io/badge/Node.js-343942?style=flat&logo=Node.js&logoColor=339933) -->
