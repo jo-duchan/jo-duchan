@@ -1,4 +1,4 @@
-![](https://gh-hits.nomadcoders.workers.dev/view?username=jo-duchan)
+<!--![](https://gh-hits.nomadcoders.workers.dev/view?username=jo-duchan)-->
 
 <div align=left>
 	
